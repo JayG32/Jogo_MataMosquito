@@ -1,4 +1,4 @@
-##Jogo Mata Mosquito 
+#Jogo Mata Mosquito 
 
 
 Programa desenvolvido como exercício do tópico de JavaScript do curso de Desenvolvimeto Web da Plataforma UDEMY 
